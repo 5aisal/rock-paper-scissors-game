@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
+//if you just want to play the game ignore the coding and run in any compiler
+//instructions:choose 0 for rock,1 for paper,2 for scissors
 int main()
 {
     srand(time(0));
